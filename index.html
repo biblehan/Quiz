@@ -129,6 +129,13 @@
             line-height: 1.5;
         }
         
+        .hint-text {
+            font-size: 1.2em;
+            color: #333;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+        
         .options {
             display: flex;
             flex-direction: column;
@@ -360,6 +367,8 @@
             <div class="question-container">
                 <div class="question-number" id="questionNumber">문제 1 / 10</div>
                 <div class="question-text" id="questionText"></div>
+				<button class="btn" onclick="showHint()">힌트보기</button>
+				<div class="hint-text" id="hintBox"><p id="hintText"></p></div>
                 
                 <div class="options" id="optionsContainer"></div>
                 
@@ -565,10 +574,18 @@
             });
             
             document.getElementById('explanation').style.display = 'none';
+			document.getElementById('hintBox').style.display = 'none';
             document.getElementById('nextButton').style.display = 'none';
             
             updateProgress();
         }
+
+        // 힌트 표시
+        function showHint() {
+			const question = currentQuestions[currentQuestionIndex];
+			document.getElementById('hintText').textContent = question.hint;
+			document.getElementById('hintBox').style.display = 'block';
+		}
         
         // 선택지 선택
         function selectOption(optionIndex, optionElement) {
@@ -606,6 +623,7 @@
             }
             
             document.getElementById('explanationText').textContent = question.explanation;
+			document.getElementById('hintText').textContent = question.hint;
             document.getElementById('explanation').style.display = 'block';
             document.getElementById('nextButton').style.display = 'inline-block';
         }
