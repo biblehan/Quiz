@@ -2758,5 +2758,1183 @@
     "correctAnswer": 0,
     "explanation": "길에 눕는 건 위험하고 법에도 금지되어 있어요.",
     "category": "법률"
+  },
+  {
+    "question": "해님과 달님 이야기에서 누가 도깨비에게 쫓기나요?",
+    "hint": "남매가 주인공이에요.",
+    "options": ["형제", "남매", "부모님", "도깨비"],
+    "correctAnswer": 1,
+    "explanation": "해님과 달님 이야기에서는 남매가 도깨비에게 쫓기다가 하늘로 올라가요.",
+    "category": "문학"
+  },
+  {
+    "question": "흥부가 기른 제비는 무엇을 물어다 주었나요?",
+    "hint": "박을 물어다 주었어요.",
+    "options": ["사과", "박씨", "감자", "떡"],
+    "correctAnswer": 1,
+    "explanation": "흥부는 제비가 물어다 준 박씨로 큰 복을 받았어요.",
+    "category": "문학"
+  },
+  {
+    "question": "토끼전에서 토끼는 무엇을 빼앗기지 않으려고 꾀를 냈나요?",
+    "hint": "용왕이 병을 고치려고 원했어요.",
+    "options": ["간", "심장", "귀", "꼬리"],
+    "correctAnswer": 0,
+    "explanation": "토끼전에서 토끼는 용왕이 간을 달라고 하자 꾀를 내어 도망쳤어요.",
+    "category": "문학"
+  },
+  {
+    "question": "금도끼 은도끼 이야기에서 정직한 나무꾼은 무엇을 받았나요?",
+    "hint": "욕심부리지 않았어요.",
+    "options": ["금도끼만", "은도끼만", "쇠도끼만", "금, 은, 쇠도끼 모두"],
+    "correctAnswer": 3,
+    "explanation": "정직한 나무꾼은 금도끼, 은도끼, 쇠도끼 모두를 받았어요.",
+    "category": "문학"
+  },
+  {
+    "question": "콩쥐팥쥐에서 콩쥐를 도와준 동물은 누구일까요?",
+    "hint": "집안일을 도와줬어요.",
+    "options": ["개구리와 소", "쥐와 새", "용과 호랑이", "강아지와 고양이"],
+    "correctAnswer": 0,
+    "explanation": "콩쥐가 힘들어할 때 개구리, 소 등이 도와주었어요.",
+    "category": "문학"
+  },
+  {
+    "question": "흥부와 놀부 이야기에서 놀부는 어떤 성격인가요?",
+    "hint": "흥부와 반대예요.",
+    "options": ["착하다", "욕심 많다", "정직하다", "성실하다"],
+    "correctAnswer": 1,
+    "explanation": "놀부는 욕심이 많고 심술궂은 인물이에요.",
+    "category": "문학"
+  },
+  {
+    "question": "이솝 우화 '개미와 베짱이'에서 개미는 여름에 무엇을 했나요?",
+    "hint": "겨울 준비를 했어요.",
+    "options": ["노래했다", "춤췄다", "열심히 일했다", "잠을 잤다"],
+    "correctAnswer": 2,
+    "explanation": "개미는 여름 동안 열심히 일하며 먹이를 모았어요.",
+    "category": "문학"
+  },
+  {
+    "question": "“호랑이도 제 말 하면 온다”라는 속담은 무슨 뜻일까요?",
+    "hint": "누군가 이야기를 하면...",
+    "options": ["호랑이가 무섭다", "말하면 나타난다", "호랑이가 착하다", "소리가 크다"],
+    "correctAnswer": 1,
+    "explanation": "어떤 사람 이야기를 하면 마침 그 사람이 나타난다는 뜻이에요.",
+    "category": "문학"
+  },
+  {
+    "question": "“낮말은 새가 듣고 밤말은 ____ 듣는다.” 빈칸에 알맞은 말은?",
+    "hint": "하늘을 나는 동물이에요.",
+    "options": ["호랑이", "쥐", "도깨비", "귀신"],
+    "correctAnswer": 0,
+    "explanation": "속담은 '낮말은 새가 듣고 밤말은 쥐가 듣는다'예요.",
+    "category": "문학"
+  },
+  {
+    "question": "이야기의 처음, 중간, 끝을 차례대로 말하는 것을 무엇이라고 할까요?",
+    "hint": "이야기의 뼈대예요.",
+    "options": ["인물", "배경", "줄거리", "교훈"],
+    "correctAnswer": 2,
+    "explanation": "처음, 중간, 끝을 잇는 것을 줄거리라고 해요.",
+    "category": "문학"
+  },
+  {
+    "question": "동시는 주로 어떤 사람이 쓰나요?",
+    "hint": "어린이의 마음을 담아요.",
+    "options": ["어른", "어린이", "선생님", "경찰"],
+    "correctAnswer": 1,
+    "explanation": "동시는 어린이나 어린이의 마음을 담아 쓰는 시예요.",
+    "category": "문학"
+  },
+  {
+    "question": "“봄이 오니 꽃이 활짝 피었네”는 어떤 글일까요?",
+    "hint": "운율이 있어요.",
+    "options": ["소설", "시", "동화", "속담"],
+    "correctAnswer": 1,
+    "explanation": "운율이 있고 느낌을 담은 글은 시예요.",
+    "category": "문학"
+  },
+  {
+    "question": "문학 작품에서 ‘주인공’은 무엇을 뜻하나요?",
+    "hint": "이야기에서 가장 중요한 인물이에요.",
+    "options": ["조연", "주인공", "관객", "작가"],
+    "correctAnswer": 1,
+    "explanation": "주인공은 이야기의 중심이 되는 인물이에요.",
+    "category": "문학"
+  },
+  {
+    "question": "동화는 보통 누구에게 들려주는 이야기일까요?",
+    "hint": "재미와 교훈을 줘요.",
+    "options": ["어른", "어린이", "경찰", "선생님"],
+    "correctAnswer": 1,
+    "explanation": "동화는 주로 어린이에게 들려주는 이야기예요.",
+    "category": "문학"
+  },
+  {
+    "question": "속담 '가는 말이 고와야 오는 말이 곱다'는 무슨 뜻일까요?",
+    "hint": "상대에게 하는 말과 관련 있어요.",
+    "options": ["말을 빨리 해야 한다", "말을 예쁘게 해야 좋은 말이 돌아온다", "말을 많이 해야 한다", "말은 늦게 해야 한다"],
+    "correctAnswer": 1,
+    "explanation": "다른 사람에게 고운 말을 하면 좋은 말이 돌아온다는 뜻이에요.",
+    "category": "문학"
+  },
+  {
+    "question": "이솝 우화 '양치기 소년'에서 소년이 거짓말을 하자 무슨 일이 생겼나요?",
+    "hint": "사람들이 속지 않았어요.",
+    "options": ["늑대가 도망갔다", "사람들이 안 와서 양이 잡혔다", "돈을 벌었다", "칭찬을 받았다"],
+    "correctAnswer": 1,
+    "explanation": "거짓말을 여러 번 해서 결국 늑대가 왔을 때 양이 잡혔어요.",
+    "category": "문학"
+  },
+  {
+    "question": "문학 작품에서 ‘교훈’은 무엇일까요?",
+    "hint": "이야기를 통해 얻는 깨달음이에요.",
+    "options": ["재미", "깨달음", "그림", "소리"],
+    "correctAnswer": 1,
+    "explanation": "교훈은 이야기를 통해 배우는 지혜예요.",
+    "category": "문학"
+  },
+  {
+    "question": "옛날이야기에서 자주 등장하는 동물은 누구일까요?",
+    "hint": "용왕도 나오지만, 산속에서 많이 만나요.",
+    "options": ["호랑이", "펭귄", "코끼리", "기린"],
+    "correctAnswer": 0,
+    "explanation": "옛날이야기에는 호랑이가 자주 등장해요.",
+    "category": "문학"
+  },
+  {
+    "question": "“꿀꿀, 돼지가 노래를 한다” 같은 표현을 무엇이라고 할까요?",
+    "hint": "사람처럼 표현했어요.",
+    "options": ["비유", "의인화", "직유", "상징"],
+    "correctAnswer": 1,
+    "explanation": "동물이 사람처럼 행동하는 걸 의인화라고 해요.",
+    "category": "문학"
+  },
+  {
+    "question": "동화에서 도깨비가 자주 가지고 다니는 물건은 무엇일까요?",
+    "hint": "이걸 두드리면 부자가 돼요.",
+    "options": ["방망이", "책", "가방", "연필"],
+    "correctAnswer": 0,
+    "explanation": "도깨비는 도깨비방망이를 가지고 다녀요.",
+    "category": "문학"
+  },
+  {
+    "question": "옛날이야기에서 ‘선녀와 나무꾼’은 어디에서 만났나요?",
+    "hint": "선녀가 내려온 곳이에요.",
+    "options": ["강가", "산속", "하늘", "연못"],
+    "correctAnswer": 3,
+    "explanation": "선녀는 연못에서 내려와 나무꾼을 만났어요.",
+    "category": "문학"
+  },
+  {
+    "question": "‘시’는 주로 어떤 글일까요?",
+    "hint": "짧고 느낌을 표현해요.",
+    "options": ["긴 이야기", "짧고 운율 있는 글", "신문 기사", "동화"],
+    "correctAnswer": 1,
+    "explanation": "시는 짧고 감정을 표현하는 글이에요.",
+    "category": "문학"
+  },
+  {
+    "question": "동화책에 자주 들어 있는 그림은 무엇을 도와줄까요?",
+    "hint": "내용을 쉽게 알 수 있어요.",
+    "options": ["줄거리", "이해", "상상", "교훈"],
+    "correctAnswer": 1,
+    "explanation": "동화책의 그림은 내용을 이해하는 데 도움을 줘요.",
+    "category": "문학"
+  },
+  {
+    "question": "문학 작품에서 ‘배경’은 무엇을 뜻하나요?",
+    "hint": "언제, 어디서 이야기가 일어났는지예요.",
+    "options": ["줄거리", "장소와 시간", "주인공", "교훈"],
+    "correctAnswer": 1,
+    "explanation": "배경은 이야기가 일어나는 시간과 장소예요.",
+    "category": "문학"
+  },
+  {
+    "question": "이솝 우화 '거북이와 토끼'에서 누가 이겼나요?",
+    "hint": "천천히 가지만 꾸준했어요.",
+    "options": ["토끼", "거북이", "늑대", "호랑이"],
+    "correctAnswer": 1,
+    "explanation": "거북이는 느리지만 꾸준해서 이겼어요.",
+    "category": "문학"
+  },
+  {
+    "question": "“비 온 뒤에 땅이 굳는다”는 속담은 무슨 뜻일까요?",
+    "hint": "어려움 뒤에 오는 결과예요.",
+    "options": ["비가 오면 땅이 젖는다", "비가 오면 땅이 단단해진다", "어려움을 겪으면 더 단단해진다", "땅이 무너진다"],
+    "correctAnswer": 2,
+    "explanation": "어려움을 겪고 나면 더 강해진다는 뜻이에요.",
+    "category": "문학"
+  },
+  {
+    "question": "문학 작품 속에서 '교훈'은 주로 어디에 숨어 있을까요?",
+    "hint": "이야기의 마지막에 많이 드러나요.",
+    "options": ["처음", "중간", "끝", "아무 데도 없음"],
+    "correctAnswer": 2,
+    "explanation": "교훈은 주로 이야기의 끝부분에서 알 수 있어요.",
+    "category": "문학"
+  },
+  {
+    "question": "“달님 달님 밝은 달님” 같은 노래 가사도 어떤 문학일까요?",
+    "hint": "노래지만 시와 비슷해요.",
+    "options": ["소설", "동시", "노래 가사도 시", "속담"],
+    "correctAnswer": 2,
+    "explanation": "노래 가사도 시처럼 문학의 한 부분이에요.",
+    "category": "문학"
+  },
+  {
+    "question": "옛날이야기에서 자주 쓰이는 시작말은 무엇일까요?",
+    "hint": "옛날 옛적에…",
+    "options": ["옛날 옛적에", "안녕하세요", "오늘은", "내일은"],
+    "correctAnswer": 0,
+    "explanation": "옛날이야기는 보통 '옛날 옛적에'로 시작해요.",
+    "category": "문학"
+  },
+  {
+    "question": "물건을 사려면 필요한 것은 무엇일까요?",
+    "hint": "마트에서 사탕을 사려면?",
+    "options": ["돈", "연필", "책", "공"],
+    "correctAnswer": 0,
+    "explanation": "물건을 사려면 돈이 필요합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "돈을 모아 두는 것을 무엇이라고 할까요?",
+    "hint": "돼지 저금통에 돈을 넣는 것",
+    "options": ["저축", "소비", "구경", "놀이"],
+    "correctAnswer": 0,
+    "explanation": "돈을 모아 두는 것을 ‘저축’이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "물건을 사는 사람을 무엇이라고 할까요?",
+    "hint": "가게에서 사탕을 사는 아이",
+    "options": ["소비자", "생산자", "판매자", "손님 아닌 사람"],
+    "correctAnswer": 0,
+    "explanation": "물건을 사는 사람을 소비자라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "물건을 만드는 사람을 무엇이라고 할까요?",
+    "hint": "빵을 굽는 빵집 아저씨",
+    "options": ["생산자", "소비자", "구경꾼", "손님"],
+    "correctAnswer": 0,
+    "explanation": "물건을 만드는 사람은 생산자라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "물건을 파는 사람은 무엇일까요?",
+    "hint": "가게에서 과자를 파는 주인",
+    "options": ["판매자", "소비자", "생산자", "학생"],
+    "correctAnswer": 0,
+    "explanation": "물건을 파는 사람을 판매자라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "값이 더 싼 곳에서 물건을 사는 것을 무엇이라고 하나요?",
+    "hint": "마트 두 곳을 비교해 보고",
+    "options": ["알뜰 소비", "낭비", "놀이", "저축"],
+    "correctAnswer": 0,
+    "explanation": "값을 비교해 싸게 사는 것을 알뜰 소비라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "돈을 필요할 때 쓰는 것을 무엇이라고 하나요?",
+    "hint": "과자를 사 먹을 때",
+    "options": ["소비", "저축", "놀이", "구경"],
+    "correctAnswer": 0,
+    "explanation": "돈을 쓰는 것을 소비라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "시장에 물건이 많으면 값은 어떻게 될까요?",
+    "hint": "사과가 엄청 많이 나왔을 때",
+    "options": ["내려간다", "올라간다", "똑같다", "없어진다"],
+    "correctAnswer": 0,
+    "explanation": "물건이 많으면 값은 내려갑니다.",
+    "category": "경제"
+  },
+  {
+    "question": "시장에 물건이 적으면 값은 어떻게 될까요?",
+    "hint": "딸기가 조금만 있을 때",
+    "options": ["올라간다", "내려간다", "없어진다", "똑같다"],
+    "correctAnswer": 0,
+    "explanation": "물건이 적으면 값은 올라갑니다.",
+    "category": "경제"
+  },
+  {
+    "question": "가게에서 물건을 살 때 주는 종이 돈을 무엇이라 하나요?",
+    "hint": "지폐라고도 부른다",
+    "options": ["현금", "쿠폰", "티켓", "카드"],
+    "correctAnswer": 0,
+    "explanation": "종이 돈을 현금이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "동그란 쇠로 만든 돈은 무엇일까요?",
+    "hint": "100원, 500원",
+    "options": ["동전", "지폐", "수표", "카드"],
+    "correctAnswer": 0,
+    "explanation": "쇠로 만든 돈은 동전입니다.",
+    "category": "경제"
+  },
+  {
+    "question": "물건을 사지 않고 아끼는 것을 무엇이라고 하나요?",
+    "hint": "필요 없는 과자는 안 산다",
+    "options": ["절약", "소비", "생산", "놀이"],
+    "correctAnswer": 0,
+    "explanation": "돈을 아끼는 것을 절약이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "사람들이 서로 필요한 물건을 바꿔 가지는 것을 무엇이라 하나요?",
+    "hint": "사탕과 과자를 바꿔 갖기",
+    "options": ["교환", "저축", "소비", "절약"],
+    "correctAnswer": 0,
+    "explanation": "물건을 서로 바꾸는 것을 교환이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "은행에 돈을 넣어 두는 것을 무엇이라고 할까요?",
+    "hint": "통장에 돈을 넣는다",
+    "options": ["저축", "소비", "교환", "놀이"],
+    "correctAnswer": 0,
+    "explanation": "은행에 돈을 넣어 두는 것도 저축입니다.",
+    "category": "경제"
+  },
+  {
+    "question": "필요한 물건을 고르는 것을 무엇이라고 할까요?",
+    "hint": "사탕, 과자 중 하나 고르기",
+    "options": ["선택", "교환", "저축", "절약"],
+    "correctAnswer": 0,
+    "explanation": "여러 개 중에서 고르는 것을 선택이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "물건을 많이 살수록 한 개 값이 싸지는 것을 무엇이라고 할까요?",
+    "hint": "10개를 사면 더 싸진다",
+    "options": ["할인", "저축", "소비", "놀이"],
+    "correctAnswer": 0,
+    "explanation": "여러 개를 살 때 싸게 주는 것을 할인이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "돈을 꾸어 쓰고 나중에 갚는 것을 무엇이라 하나요?",
+    "hint": "친구에게 1000원을 빌려서 나중에 돌려준다",
+    "options": ["빚", "저축", "절약", "교환"],
+    "correctAnswer": 0,
+    "explanation": "남의 돈을 쓰고 갚아야 할 것을 빚이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "새로운 물건을 만들어 파는 회사를 무엇이라 하나요?",
+    "hint": "자동차를 만드는 곳",
+    "options": ["기업", "시장", "소비자", "상점"],
+    "correctAnswer": 0,
+    "explanation": "물건을 만드는 회사를 기업이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "사람들이 모여서 물건을 사고파는 곳을 무엇이라고 할까요?",
+    "hint": "시장 놀이 할 때",
+    "options": ["시장", "학교", "공원", "놀이터"],
+    "correctAnswer": 0,
+    "explanation": "물건을 사고파는 곳은 시장입니다.",
+    "category": "경제"
+  },
+  {
+    "question": "필요하지 않은 물건에 돈을 쓰는 것을 무엇이라고 할까요?",
+    "hint": "아직 쓸 수 있는 연필이 있는데 새로 사는 것",
+    "options": ["낭비", "저축", "소비", "절약"],
+    "correctAnswer": 0,
+    "explanation": "돈을 아껴 쓰지 못하고 쓰는 것을 낭비라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "물건 값을 깎아 주는 것을 무엇이라 하나요?",
+    "hint": "만원에서 9천 원으로 줄여 준다",
+    "options": ["할인", "소비", "저축", "낭비"],
+    "correctAnswer": 0,
+    "explanation": "값을 줄여 주는 것을 할인이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "사람들이 모여 살며 돈을 쓰고 버는 공간을 무엇이라 하나요?",
+    "hint": "우리가 사는 곳",
+    "options": ["경제 사회", "학교", "공원", "놀이터"],
+    "correctAnswer": 0,
+    "explanation": "사람들이 돈을 쓰고 버는 활동을 하는 곳을 경제 사회라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "가족이 함께 쓰는 돈을 무엇이라고 할까요?",
+    "hint": "집에서 아빠, 엄마가 관리하는 돈",
+    "options": ["가계비", "용돈", "저축", "빚"],
+    "correctAnswer": 0,
+    "explanation": "가족이 함께 쓰는 돈을 가계비라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "아이들이 받는 작은 돈을 무엇이라고 하나요?",
+    "hint": "엄마, 아빠가 주는 돈",
+    "options": ["용돈", "월급", "가계비", "빚"],
+    "correctAnswer": 0,
+    "explanation": "아이들이 받는 작은 돈을 용돈이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "일을 하고 받는 돈을 무엇이라고 할까요?",
+    "hint": "아빠, 엄마가 회사에서 받는 돈",
+    "options": ["월급", "용돈", "빚", "저축"],
+    "correctAnswer": 0,
+    "explanation": "일을 하고 받는 돈은 월급입니다.",
+    "category": "경제"
+  },
+  {
+    "question": "은행에서 돈을 빌려 쓰는 것을 무엇이라고 하나요?",
+    "hint": "집을 사려고 은행에서 돈을 빌린다",
+    "options": ["대출", "저축", "소비", "절약"],
+    "correctAnswer": 0,
+    "explanation": "은행에서 돈을 빌려 쓰는 것을 대출이라고 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "돈을 모아 두면 좋은 점은 무엇일까요?",
+    "hint": "나중에 필요한 물건을 살 수 있다",
+    "options": ["필요할 때 쓸 수 있다", "당장 쓸 수 없다", "돈이 사라진다", "물건 값이 올라간다"],
+    "correctAnswer": 0,
+    "explanation": "돈을 모아 두면 필요할 때 쓸 수 있습니다.",
+    "category": "경제"
+  },
+  {
+    "question": "마트에서 물건을 사려면 무엇을 해야 할까요?",
+    "hint": "계산대에서",
+    "options": ["돈을 내야 한다", "그냥 가져간다", "가방에 넣는다", "몰래 나온다"],
+    "correctAnswer": 0,
+    "explanation": "물건을 사려면 돈을 내야 합니다.",
+    "category": "경제"
+  },
+  {
+    "question": "가격표를 보면 무엇을 알 수 있을까요?",
+    "hint": "물건마다 붙어 있다",
+    "options": ["물건의 값", "물건의 크기", "물건의 무게", "물건의 색"],
+    "correctAnswer": 0,
+    "explanation": "가격표를 보면 물건의 값을 알 수 있습니다.",
+    "category": "경제"
+  },
+  {
+    "question": "가장 알뜰한 소비 방법은 무엇일까요?",
+    "hint": "필요한 것만 사고 돈을 아낀다",
+    "options": ["절약하며 필요한 것만 사기", "갖고 싶은 건 다 사기", "돈을 모두 쓰기", "물건을 그냥 버리기"],
+    "correctAnswer": 0,
+    "explanation": "필요한 것만 사는 것이 알뜰한 소비입니다.",
+    "category": "경제"
+  },
+
+  [
+  {
+    "question": "‘뽀로로’는 어떤 동물일까요?",
+    "hint": "",
+    "options": ["펭귄", "토끼", "강아지", "고양이"],
+    "correctAnswer": 0,
+    "explanation": "뽀로로는 파란색 옷을 입은 펭귄 캐릭터입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘도라에몽’은 미래에서 온 어떤 동물 로봇일까요?",
+    "hint": "",
+    "options": ["고양이", "곰", "토끼", "강아지"],
+    "correctAnswer": 0,
+    "explanation": "도라에몽은 고양이 모양의 로봇입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘포켓몬스터’에서 피카츄는 어떤 색깔일까요?",
+    "hint": "",
+    "options": ["노란색", "파란색", "초록색", "빨간색"],
+    "correctAnswer": 0,
+    "explanation": "피카츄는 노란색 포켓몬입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘겨울왕국’의 주인공 자매는 누구일까요?",
+    "hint": "",
+    "options": ["엘사와 안나", "신데렐라와 백설공주", "라푼젤과 뮬란", "벨과 재스민"],
+    "correctAnswer": 0,
+    "explanation": "겨울왕국의 주인공은 엘사와 안나 자매입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘핑크퐁 아기상어’ 노래에서 아기상어는 어떤 색깔일까요?",
+    "hint": "",
+    "options": ["노란색", "파란색", "초록색", "보라색"],
+    "correctAnswer": 0,
+    "explanation": "아기상어는 노란색 상어로 등장합니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘짱구는 못말려’의 짱구의 이름은 무엇일까요?",
+    "hint": "",
+    "options": ["신짱구", "김짱구", "이짱구", "박짱구"],
+    "correctAnswer": 0,
+    "explanation": "짱구의 본명은 ‘신짱구’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘슈퍼마리오’ 게임에서 마리오는 어떤 직업일까요?",
+    "hint": "",
+    "options": ["배관공", "경찰", "요리사", "선생님"],
+    "correctAnswer": 0,
+    "explanation": "마리오는 빨간 모자를 쓴 배관공입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘토이스토리’에서 우디는 어떤 장난감일까요?",
+    "hint": "",
+    "options": ["보안관 인형", "로봇", "공룡", "자동차"],
+    "correctAnswer": 0,
+    "explanation": "우디는 카우보이 모자를 쓴 보안관 인형입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘헬로키티’의 대표적인 특징은 무엇일까요?",
+    "hint": "",
+    "options": ["입이 없다", "꼬리가 길다", "안경을 쓴다", "모자를 쓴다"],
+    "correctAnswer": 0,
+    "explanation": "헬로키티는 입이 없는 고양이 캐릭터로 유명합니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘미키마우스’는 어떤 동물을 바탕으로 만든 캐릭터일까요?",
+    "hint": "",
+    "options": ["쥐", "고양이", "개", "토끼"],
+    "correctAnswer": 0,
+    "explanation": "미키마우스는 쥐를 모티브로 한 캐릭터입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘라푼젤’은 무엇이 길기로 유명할까요?",
+    "hint": "",
+    "options": ["머리카락", "손톱", "팔", "다리"],
+    "correctAnswer": 0,
+    "explanation": "라푼젤은 아주 긴 머리카락을 가지고 있습니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘백설공주’에서 왕비가 물어보는 거울은 무엇일까요?",
+    "hint": "",
+    "options": ["마법 거울", "손거울", "물거울", "창문"],
+    "correctAnswer": 0,
+    "explanation": "왕비는 ‘마법 거울아’라고 물어봅니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘해리포터’에서 호그와트는 무엇일까요?",
+    "hint": "",
+    "options": ["마법 학교", "동물원", "도서관", "놀이공원"],
+    "correctAnswer": 0,
+    "explanation": "호그와트는 마법사들이 다니는 학교입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘스폰지밥’은 어디에 살고 있을까요?",
+    "hint": "",
+    "options": ["바다 속 파인애플 집", "바닷속 성", "바닷속 배", "바닷속 동굴"],
+    "correctAnswer": 0,
+    "explanation": "스폰지밥은 바닷속 파인애플 모양 집에 살고 있습니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘카’ 애니메이션의 주인공 자동차 이름은?",
+    "hint": "",
+    "options": ["맥퀸", "토마스", "버즈", "엘사"],
+    "correctAnswer": 0,
+    "explanation": "카의 주인공은 ‘라이트닝 맥퀸’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘슈퍼맨’은 무엇을 입고 하늘을 날까요?",
+    "hint": "",
+    "options": ["망토", "안경", "모자", "신발"],
+    "correctAnswer": 0,
+    "explanation": "슈퍼맨은 빨간 망토를 입고 하늘을 납니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘짱구’의 동생 이름은 무엇일까요?",
+    "hint": "",
+    "options": ["신짱아", "신철수", "신영희", "신나리"],
+    "correctAnswer": 0,
+    "explanation": "짱구의 동생은 ‘신짱아’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘포켓몬스터’에서 몬스터를 잡을 때 사용하는 것은?",
+    "hint": "",
+    "options": ["몬스터볼", "공책", "가방", "책"],
+    "correctAnswer": 0,
+    "explanation": "포켓몬은 몬스터볼에 담습니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘피터팬’은 어디에 살고 있을까요?",
+    "hint": "",
+    "options": ["네버랜드", "뉴욕", "런던", "바닷속"],
+    "correctAnswer": 0,
+    "explanation": "피터팬은 네버랜드라는 섬에 살고 있습니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘심슨가족’에서 아빠 이름은?",
+    "hint": "",
+    "options": ["호머", "바트", "리사", "메기"],
+    "correctAnswer": 0,
+    "explanation": "심슨 가족의 아빠는 ‘호머 심슨’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘겨울왕국’의 엘사가 가진 능력은 무엇일까요?",
+    "hint": "",
+    "options": ["얼음을 만드는 능력", "불을 만드는 능력", "바람을 부르는 능력", "동물을 부르는 능력"],
+    "correctAnswer": 0,
+    "explanation": "엘사는 얼음을 만드는 능력을 가지고 있습니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘아이언맨’은 무엇을 입고 영웅이 될까요?",
+    "hint": "",
+    "options": ["철 슈트", "망토", "가죽옷", "날개"],
+    "correctAnswer": 0,
+    "explanation": "아이언맨은 철 슈트를 입고 영웅이 됩니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘닌텐도’에서 유명한 게임 캐릭터는?",
+    "hint": "",
+    "options": ["마리오", "미키마우스", "뽀로로", "짱구"],
+    "correctAnswer": 0,
+    "explanation": "닌텐도에서 만든 가장 유명한 캐릭터는 ‘마리오’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘라이온 킹’의 주인공 사자 이름은?",
+    "hint": "",
+    "options": ["심바", "무파사", "티몬", "품바"],
+    "correctAnswer": 0,
+    "explanation": "라이온 킹의 주인공은 사자 ‘심바’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘토토로’는 어떤 애니메이션 속 캐릭터일까요?",
+    "hint": "",
+    "options": ["이웃집 토토로", "센과 치히로", "하울의 성", "모노노케 히메"],
+    "correctAnswer": 0,
+    "explanation": "토토로는 ‘이웃집 토토로’에 등장합니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘겨울왕국’의 노래 중 가장 유명한 곡은?",
+    "hint": "",
+    "options": ["Let It Go", "Do You Want to Build a Snowman?", "Into the Unknown", "Love Is an Open Door"],
+    "correctAnswer": 0,
+    "explanation": "겨울왕국에서 가장 유명한 곡은 ‘Let It Go’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘인어공주’의 이름은?",
+    "hint": "",
+    "options": ["에리얼", "안나", "벨", "재스민"],
+    "correctAnswer": 0,
+    "explanation": "인어공주의 이름은 ‘에리얼’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘원피스’에서 주인공의 이름은?",
+    "hint": "",
+    "options": ["루피", "조로", "상디", "나미"],
+    "correctAnswer": 0,
+    "explanation": "원피스의 주인공은 ‘루피’입니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "‘피카츄’가 사용하는 대표적인 기술은?",
+    "hint": "",
+    "options": ["백만볼트", "화염방사", "물대포", "눈보라"],
+    "correctAnswer": 0,
+    "explanation": "피카츄는 ‘백만볼트’를 대표 기술로 씁니다.",
+    "category": "대중문화"
+  },
+  {
+    "question": "대한민국의 대통령은 나라의 어떤 일을 하는 사람일까요?",
+    "hint": "",
+    "options": ["나라를 대표하고 다스리는 일", "학교를 운영하는 일", "가게를 여는 일", "병원을 지키는 일"],
+    "correctAnswer": 0,
+    "explanation": "대통령은 나라를 대표하고 다스리는 일을 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "대한민국의 국회에서는 무엇을 하나요?",
+    "hint": "",
+    "options": ["법을 만들고 나라 일을 의논한다", "학교 공부를 한다", "병원을 운영한다", "운동 경기를 한다"],
+    "correctAnswer": 0,
+    "explanation": "국회는 법을 만들고 나라 일을 의논하는 곳입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "사람들이 모여서 나라의 일을 정하는 제도를 무엇이라 하나요?",
+    "hint": "",
+    "options": ["민주주의", "체육대회", "놀이", "경기"],
+    "correctAnswer": 0,
+    "explanation": "모두가 함께 나라의 일을 정하는 제도를 민주주의라고 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "투표는 무엇을 할 때 사용되나요?",
+    "hint": "",
+    "options": ["대표를 뽑을 때", "시험을 볼 때", "운동할 때", "밥 먹을 때"],
+    "correctAnswer": 0,
+    "explanation": "투표는 대표를 뽑을 때 사용됩니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "대한민국의 수도는 어디일까요?",
+    "hint": "",
+    "options": ["서울", "부산", "인천", "광주"],
+    "correctAnswer": 0,
+    "explanation": "대한민국의 수도는 서울입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "우리 동네를 다스리고 도와주는 사람을 무엇이라 부르나요?",
+    "hint": "",
+    "options": ["시장", "대통령", "선생님", "경찰관"],
+    "correctAnswer": 0,
+    "explanation": "도시를 다스리는 대표는 시장입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라의 안전을 지키는 군인은 무엇을 하나요?",
+    "hint": "",
+    "options": ["나라를 지킨다", "학교에서 수업한다", "음식을 판다", "영화를 찍는다"],
+    "correctAnswer": 0,
+    "explanation": "군인은 나라를 지키는 일을 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "법이란 무엇일까요?",
+    "hint": "",
+    "options": ["모두가 지켜야 하는 약속", "학교 규칙만 해당", "놀이 규칙", "운동 경기 규칙"],
+    "correctAnswer": 0,
+    "explanation": "법은 나라에서 모두가 지켜야 하는 약속입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "신문이나 TV에서 전하는 중요한 소식을 무엇이라 하나요?",
+    "hint": "",
+    "options": ["뉴스", "동화", "게임", "노래"],
+    "correctAnswer": 0,
+    "explanation": "뉴스는 세상에서 일어나는 중요한 소식을 전합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "환경을 지키기 위해 우리가 할 수 있는 일은 무엇일까요?",
+    "hint": "",
+    "options": ["쓰레기 줄이기", "길에 버리기", "물 낭비하기", "불을 켜둔 채 나가기"],
+    "correctAnswer": 0,
+    "explanation": "환경을 지키려면 쓰레기를 줄이고 물과 전기를 아껴야 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "길을 안전하게 건너기 위해 지켜야 하는 것은?",
+    "hint": "",
+    "options": ["신호등", "놀이터", "버스", "학교"],
+    "correctAnswer": 0,
+    "explanation": "길을 건널 때는 신호등을 지켜야 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라의 대표 축제일로 8월 15일은 무엇일까요?",
+    "hint": "",
+    "options": ["광복절", "어린이날", "설날", "추석"],
+    "correctAnswer": 0,
+    "explanation": "8월 15일은 우리나라가 해방된 것을 기념하는 광복절입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "학교에서 친구들과 사이좋게 지내는 것도 작은 어떤 훈련일까요?",
+    "hint": "",
+    "options": ["민주주의 훈련", "운동 연습", "그림 그리기", "노래 연습"],
+    "correctAnswer": 0,
+    "explanation": "서로 의견을 나누고 지켜주는 것은 민주주의의 훈련입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라에 세금을 내는 이유는 무엇일까요?",
+    "hint": "",
+    "options": ["나라 살림에 쓰기 위해", "게임에 쓰려고", "운동회 준비하려고", "선물 사려고"],
+    "correctAnswer": 0,
+    "explanation": "세금은 나라 살림과 필요한 곳에 쓰입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "쓰레기를 버릴 때 지켜야 할 것은?",
+    "hint": "",
+    "options": ["분리수거", "아무 데나 버리기", "숨기기", "강에 버리기"],
+    "correctAnswer": 0,
+    "explanation": "쓰레기는 꼭 분리수거해야 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "장애가 있는 사람들도 편하게 다닐 수 있도록 만든 시설을 무엇이라 하나요?",
+    "hint": "",
+    "options": ["편의시설", "운동장", "놀이터", "극장"],
+    "correctAnswer": 0,
+    "explanation": "장애인을 위한 시설을 편의시설이라고 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라의 중요한 법이 모여 있는 책을 무엇이라 할까요?",
+    "hint": "",
+    "options": ["헌법", "동화책", "노래책", "만화책"],
+    "correctAnswer": 0,
+    "explanation": "나라의 기본 법은 헌법에 모여 있습니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "남녀가 차별 없이 똑같이 존중받는 것을 무엇이라 하나요?",
+    "hint": "",
+    "options": ["성평등", "운동회", "합창", "놀이"],
+    "correctAnswer": 0,
+    "explanation": "성평등은 남녀가 차별 없이 존중받는 것을 말합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "어린이날은 며칠일까요?",
+    "hint": "",
+    "options": ["5월 5일", "3월 1일", "8월 15일", "10월 3일"],
+    "correctAnswer": 0,
+    "explanation": "어린이날은 5월 5일입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라의 대표 깃발은 무엇일까요?",
+    "hint": "",
+    "options": ["태극기", "한복", "무궁화", "한글"],
+    "correctAnswer": 0,
+    "explanation": "대한민국의 대표 깃발은 태극기입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "우리나라의 대표 꽃은 무엇일까요?",
+    "hint": "",
+    "options": ["무궁화", "장미", "해바라기", "국화"],
+    "correctAnswer": 0,
+    "explanation": "대한민국의 나라꽃은 무궁화입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라를 사랑하는 마음을 무엇이라고 할까요?",
+    "hint": "",
+    "options": ["애국심", "운동심", "우정", "놀이심"],
+    "correctAnswer": 0,
+    "explanation": "나라를 사랑하는 마음을 애국심이라고 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "경찰관이 하는 일은 무엇일까요?",
+    "hint": "",
+    "options": ["사람과 사회의 안전 지키기", "학교 운영", "음식 만들기", "운동하기"],
+    "correctAnswer": 0,
+    "explanation": "경찰관은 사회의 안전을 지키는 일을 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "재활용이란 무엇일까요?",
+    "hint": "",
+    "options": ["다시 쓰는 것", "버리는 것", "불태우는 것", "숨기는 것"],
+    "correctAnswer": 0,
+    "explanation": "재활용은 물건을 버리지 않고 다시 쓰는 것입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라의 대표 노래를 무엇이라고 할까요?",
+    "hint": "",
+    "options": ["애국가", "동요", "동화", "민요"],
+    "correctAnswer": 0,
+    "explanation": "나라의 대표 노래는 애국가입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "사람들이 모여 사는 곳을 무엇이라 할까요?",
+    "hint": "",
+    "options": ["사회", "운동장", "학교", "가게"],
+    "correctAnswer": 0,
+    "explanation": "사람들이 함께 살아가는 곳을 사회라고 합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "장마철에 대비해 정부가 하는 일은?",
+    "hint": "",
+    "options": ["홍수 예방과 안전 준비", "운동회 준비", "불꽃놀이 준비", "영화 상영"],
+    "correctAnswer": 0,
+    "explanation": "정부는 홍수 같은 재해를 막기 위해 준비합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "지구온난화의 원인은 무엇일까요?",
+    "hint": "",
+    "options": ["온실가스 증가", "운동 부족", "공부 부족", "노래 부족"],
+    "correctAnswer": 0,
+    "explanation": "지구온난화는 온실가스가 많아져서 생깁니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "선거란 무엇일까요?",
+    "hint": "",
+    "options": ["대표를 뽑는 제도", "운동 경기", "노래 부르기", "시장 보기"],
+    "correctAnswer": 0,
+    "explanation": "선거는 나라와 동네의 대표를 뽑는 제도입니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "나라가 어려울 때 모두 함께 힘을 모으는 것을 무엇이라 할까요?",
+    "hint": "",
+    "options": ["협력", "놀이", "게임", "경기"],
+    "correctAnswer": 0,
+    "explanation": "나라가 어려울 때 협력하는 것이 중요합니다.",
+    "category": "정치와 사회이슈"
+  },
+  {
+    "question": "스마트폰으로 전화를 걸고, 사진을 찍고, 인터넷을 할 수 있는 이유는 무엇일까요?",
+    "hint": "",
+    "options": ["종이", "배터리", "컴퓨터 기능", "라디오"],
+    "correctAnswer": 2,
+    "explanation": "스마트폰은 작은 컴퓨터처럼 동작하기 때문에 여러 가지 기능을 할 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "인터넷에서 정보를 찾을 때 가장 많이 쓰는 프로그램은 무엇일까요?",
+    "hint": "",
+    "options": ["그림판", "브라우저", "메모장", "계산기"],
+    "correctAnswer": 1,
+    "explanation": "인터넷 정보를 볼 때는 크롬, 사파리 같은 브라우저를 사용합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "로봇 청소기는 집 안에서 어떤 일을 해줄까요?",
+    "hint": "",
+    "options": ["청소", "요리", "운전", "그림 그리기"],
+    "correctAnswer": 0,
+    "explanation": "로봇 청소기는 집 바닥을 자동으로 청소해줍니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "컴퓨터에서 글자를 입력할 때 사용하는 것은 무엇일까요?",
+    "hint": "",
+    "options": ["마우스", "키보드", "프린터", "모니터"],
+    "correctAnswer": 1,
+    "explanation": "글자를 입력할 때는 키보드를 사용합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "사진이나 영상을 저장하는 작은 칩은 무엇일까요?",
+    "hint": "",
+    "options": ["메모리 카드", "지우개", "배터리", "책"],
+    "correctAnswer": 0,
+    "explanation": "카메라나 스마트폰에 사용하는 작은 칩을 메모리 카드라고 합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "컴퓨터 화면을 보여주는 장치는 무엇일까요?",
+    "hint": "",
+    "options": ["마우스", "모니터", "키보드", "스피커"],
+    "correctAnswer": 1,
+    "explanation": "컴퓨터 화면은 모니터에 나타납니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "휴대전화가 없던 시절, 먼 곳에 있는 사람에게 편지를 보내려면 무엇을 사용했을까요?",
+    "hint": "",
+    "options": ["인터넷", "우편", "텔레비전", "라디오"],
+    "correctAnswer": 1,
+    "explanation": "예전에는 우편으로 편지를 주고받았습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "와이파이를 사용하면 무엇을 할 수 있을까요?",
+    "hint": "",
+    "options": ["인터넷 연결", "책 읽기", "자전거 타기", "달리기"],
+    "correctAnswer": 0,
+    "explanation": "와이파이를 통해 인터넷에 연결할 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "3D 프린터는 무엇을 만들 수 있을까요?",
+    "hint": "",
+    "options": ["그림", "입체 물건", "소리", "빛"],
+    "correctAnswer": 1,
+    "explanation": "3D 프린터는 장난감, 도구 같은 입체 물건을 만듭니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "컴퓨터가 고장 나면 보통 누구에게 맡길까요?",
+    "hint": "",
+    "options": ["의사", "정비 기사", "컴퓨터 수리 기사", "경찰"],
+    "correctAnswer": 2,
+    "explanation": "컴퓨터 수리 기사가 고친답니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "전자책은 무엇으로 읽을 수 있을까요?",
+    "hint": "",
+    "options": ["종이", "스마트폰이나 태블릿", "텔레비전", "자동차"],
+    "correctAnswer": 1,
+    "explanation": "전자책은 스마트폰이나 태블릿으로 읽습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "동영상이나 음악을 인터넷에서 바로 볼 수 있게 해주는 것은 무엇일까요?",
+    "hint": "",
+    "options": ["편지", "스트리밍", "라디오", "신문"],
+    "correctAnswer": 1,
+    "explanation": "인터넷 스트리밍을 통해 영상을 바로 볼 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "스마트워치는 손목에 차고 무엇을 할 수 있을까요?",
+    "hint": "",
+    "options": ["밥 짓기", "시간 보기", "게임기", "자동차"],
+    "correctAnswer": 1,
+    "explanation": "스마트워치는 시계처럼 차고, 여러 기능도 쓸 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "게임기를 TV에 연결하면 무엇을 할 수 있을까요?",
+    "hint": "",
+    "options": ["청소", "게임하기", "공부하기", "책 읽기"],
+    "correctAnswer": 1,
+    "explanation": "게임기를 TV에 연결해 게임을 할 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "스마트폰 배터리가 없으면 어떻게 될까요?",
+    "hint": "",
+    "options": ["계속 작동", "전원이 꺼짐", "더 빨라짐", "종이가 됨"],
+    "correctAnswer": 1,
+    "explanation": "배터리가 없으면 전원이 꺼집니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "자동차에 있는 내비게이션은 무엇을 알려줄까요?",
+    "hint": "",
+    "options": ["노래", "길 안내", "영화", "신문"],
+    "correctAnswer": 1,
+    "explanation": "내비게이션은 목적지까지 길을 안내합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "메일을 인터넷으로 보내는 것을 무엇이라 할까요?",
+    "hint": "",
+    "options": ["우편", "이메일", "전화", "팩스"],
+    "correctAnswer": 1,
+    "explanation": "인터넷으로 보내는 편지를 이메일이라고 합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "유튜브는 어떤 것을 보는 사이트일까요?",
+    "hint": "",
+    "options": ["영상", "신문", "사진", "책"],
+    "correctAnswer": 0,
+    "explanation": "유튜브에서는 영상을 볼 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "스마트폰에서 사진을 찍으면 저장되는 곳은?",
+    "hint": "",
+    "options": ["앨범", "전화번호부", "계산기", "메시지"],
+    "correctAnswer": 0,
+    "explanation": "사진은 앨범에 저장됩니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "인터넷에서 안전하게 쓰려면 비밀번호를 어떻게 해야 할까요?",
+    "hint": "",
+    "options": ["다른 사람에게 알려주기", "복잡하게 만들기", "아무 숫자나 쓰기", "공개하기"],
+    "correctAnswer": 1,
+    "explanation": "비밀번호는 복잡하게 만들어야 안전합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "사진을 보내거나 받는 기능을 하는 앱은 무엇일까요?",
+    "hint": "",
+    "options": ["카메라", "메신저", "계산기", "시계"],
+    "correctAnswer": 1,
+    "explanation": "메신저 앱을 통해 사진을 주고받습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "컴퓨터를 시작할 때 먼저 켜야 하는 것은?",
+    "hint": "",
+    "options": ["모니터", "본체 전원", "마우스", "키보드"],
+    "correctAnswer": 1,
+    "explanation": "컴퓨터 본체 전원을 먼저 켜야 합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "휴대전화로 글자를 보내는 것을 무엇이라 할까요?",
+    "hint": "",
+    "options": ["전화", "문자 메시지", "이메일", "사진"],
+    "correctAnswer": 1,
+    "explanation": "글자를 보내는 것은 문자 메시지입니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "스마트폰의 화면을 손가락으로 누르는 것을 무엇이라 하나요?",
+    "hint": "",
+    "options": ["클릭", "터치", "드로잉", "프린트"],
+    "correctAnswer": 1,
+    "explanation": "손가락으로 화면을 누르는 것을 터치라고 합니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "컴퓨터에서 그림을 그릴 수 있는 간단한 프로그램은?",
+    "hint": "",
+    "options": ["엑셀", "그림판", "워드", "메모장"],
+    "correctAnswer": 1,
+    "explanation": "그림판은 간단히 그림을 그릴 수 있는 프로그램입니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "비밀번호를 다른 사람이 알면 어떤 문제가 생길까요?",
+    "hint": "",
+    "options": ["아무 일도 없음", "계정을 도둑맞음", "전화가 꺼짐", "사진이 사라짐"],
+    "correctAnswer": 1,
+    "explanation": "비밀번호가 노출되면 계정을 도둑맞을 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "태블릿은 어떤 기기일까요?",
+    "hint": "",
+    "options": ["큰 책", "휴대용 컴퓨터", "자동차 부품", "음악 기계"],
+    "correctAnswer": 1,
+    "explanation": "태블릿은 화면이 큰 휴대용 컴퓨터입니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "스마트폰으로 노래를 들을 때 주로 사용하는 앱은?",
+    "hint": "",
+    "options": ["음악 앱", "계산기", "시계", "카메라"],
+    "correctAnswer": 0,
+    "explanation": "노래는 음악 앱으로 들을 수 있습니다.",
+    "category": "기술과 IT"
+  },
+  {
+    "question": "비행기를 조종하지 않고 자동으로 나는 작은 기계를 무엇이라고 할까요?",
+    "hint": "",
+    "options": ["자동차", "드론", "배", "버스"],
+    "correctAnswer": 1,
+    "explanation": "드론은 작은 무인 비행기입니다.",
+    "category": "기술과 IT"
   }
 ]
