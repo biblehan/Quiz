@@ -2827,7 +2827,7 @@
     "question": "“낮말은 새가 듣고 밤말은 ____ 듣는다.” 빈칸에 알맞은 말은?",
     "hint": "하늘을 나는 동물이에요.",
     "options": ["호랑이", "쥐", "도깨비", "귀신"],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "속담은 '낮말은 새가 듣고 밤말은 쥐가 듣는다'예요.",
     "category": "문학"
   },
